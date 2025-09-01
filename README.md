@@ -5,8 +5,6 @@ Staff can manage student data (add, update, delete, view) and post announcements
 Students can view their profile, announcements, timetable, and assignments.  
 All data is stored securely in a MySQL database for easy access and management.
 
----
-
 ## Features
 - 🔑 **Login system** (Students & Staff)
 - 👨‍🎓 **Student Management**: Add, update, delete, view student records
@@ -15,15 +13,12 @@ All data is stored securely in a MySQL database for easy access and management.
 - 📅 **Timetable Management**
 - 🗄 **MySQL Database Integration** (`studenttable.sql` included)
 
----
-
 ## Tech Stack
 - ☕ **Java (Core + JDBC)**
 - 🗄 **MySQL**
 - 📚 **Swing (for UI)**
 - 📦 **JCalendar library**
 
-- 
 ## Project Structure
 src/
  *main/ # Main application pages
