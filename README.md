@@ -26,10 +26,10 @@ All data is stored securely in a MySQL database for easy access and management.
 - 
 ## Project Structure
 src/
-├── main/ # Main application pages
-├── pyqresource/ # Previous year questions
-├── studyresources/ # Assignments, class tests, study material
-└── timetable/ # Timetable related files
+ *main/ # Main application pages
+ *pyqresource/ # Previous year questions
+ *studyresources/ # Assignments, class tests, study material
+ *timetable/ # Timetable related files
 
 
 ##import studenttable.sql into MySQL
